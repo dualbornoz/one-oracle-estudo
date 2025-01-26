@@ -1,8 +1,10 @@
 ## Portifólio
-Bem-vindo ao projeto portifólio.
+<h2>📁 Sobre</h2>
+<p>Resolução de projetos utilizados nos cursos de lógica de programação da Alura.</p>
 
-## Ferramentas Utilizadas
-HTML
-CSS
-FLEX-BOX
+## ✔️ Ferramentas Utilizadas
+
+- ``HTML``
+- ``css``
+- ``flex-box``
 
